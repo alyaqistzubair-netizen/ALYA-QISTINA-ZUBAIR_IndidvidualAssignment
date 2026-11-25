@@ -1,2 +1,2 @@
-# ALYA-QISTINA-ZUBAIR_IndidvidualAssignment
-Code of CV Builder-Enterprise Programming Individual Assignment
+CV Builder Individual Assignment
+Code of CV Builder
